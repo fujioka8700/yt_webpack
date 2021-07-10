@@ -1,0 +1,19 @@
+{
+  "name": "yt_webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:fujioka8700/yt_webpack.git",
+  "author": "fujioka8700 <fujioka8700@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "css-loader": "^5.2.6",
+    "postcss-loader": "^6.1.1",
+    "sass": "^1.35.2",
+    "sass-loader": "^12.1.0",
+    "style-loader": "^3.0.0",
+    "webpack": "^5.44.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
